@@ -1,0 +1,16 @@
+4
+sanya
+loh
+500
+
+petya
+lah
+400
+
+vasya
+pip
+300
+
+vanya
+kek
+1200
